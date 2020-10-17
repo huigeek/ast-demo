@@ -1,0 +1,24 @@
+{
+  "name": "ast-demo",
+  "version": "0.0.1",
+  "description": "ast demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ast",
+    "@babel/generator",
+    "@babel/parser",
+    "@babel/traverse",
+    "@babel/types"
+  ],
+  "author": "huigeek",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/generator": "^7.12.1",
+    "@babel/parser": "^7.12.3",
+    "@babel/traverse": "^7.12.1",
+    "@babel/types": "^7.12.1"
+  }
+}
